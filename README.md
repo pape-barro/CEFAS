@@ -23,4 +23,4 @@
  * Connaissances de base en Linux (shell) ;
  
  # ``` Contenu: ```
- 1. [`Introduction générale`](https://github.com/pape-barro/ept-gi/blob/main/intro_algo-gi.pdf) - ``` 4 Juillet 2022 ``` ;
+ 1. [`Introduction générale`](https://github.com/pape-barro/CEFAS/blob/main/introduction_generale.pdf) - ``` 4 Juillet 2022 ``` ;
