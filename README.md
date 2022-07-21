@@ -25,4 +25,4 @@
  # ``` Contenu: ```
  1. [`Introduction générale`](https://github.com/pape-barro/CEFAS/blob/main/introduction_generale.pdf) - ``` 4 Juillet 2022 ``` ;
  2. [`Les CODECs et les QoS`](https://github.com/pape-barro/CEFAS/blob/main/qos-codec.pdf) - ``` 18 Juillet 2022 ``` ;
- 3. [`Protocoles et Architectures`](https://github.com/pape-barro/CEFAS/blob/main/qos-codec.pdf) - ``` 20 Juillet 2022 ``` ;
+ 3. [`Protocoles et Architectures`](https://github.com/pape-barro/CEFAS/blob/main/protocoles-architecture.pdf) - ``` 20 Juillet 2022 ``` ;
